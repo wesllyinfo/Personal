@@ -5,13 +5,13 @@
 
 - 🌱 Atualmente estou aprendendo **SQL e Python**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/wesllyinfo?tab=repositories](https://github.com/wesllyinfo?tab=repositories)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [meu repositorio](https://github.com/wesllyinfo?tab=repositories)
 
 - 💬 Pergunte-me sobre **Power Bi, DAX, Dax Studion**
 
 - 📫 Como chegar até mim **wesllyinfo@gmail.com**
 
-- 📄 Conheça minhas experiências [https://www.linkedin.com/in/wesllypowerbi/](https://www.linkedin.com/in/wesllypowerbi/)
+- 📄 Conheça minhas experiências [no meu Linkedin](https://www.linkedin.com/in/wesllypowerbi/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
